@@ -1,0 +1,6 @@
+{
+  "extends": "@fapp-ui-poc/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "extends": "@fapp-ui-poc/ts-config/react.json",
+  "include": [
+    "src"
+  ],
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    }
+  }
+}
