@@ -1,7 +1,7 @@
 import { Meta, StoryObj } from '@storybook/react'
 import { Card, User } from 'iconsax-react'
 
-import { Button as ButtonComponent, ButtonProps } from '@fapp-ui-poc/react'
+import { Button as ButtonComponent, ButtonProps } from '@poc-fapp-ui/react'
 
 const iconArgType = {
   options: ['noIcon', 'Card', 'User'],

@@ -9,7 +9,7 @@ import {
   ModalTrigger,
   ModalWrapper,
   Text,
-} from '@fapp-ui-poc/react'
+} from '@poc-fapp-ui/react'
 
 export default {
   title: 'Overlay/Modal/Modal',

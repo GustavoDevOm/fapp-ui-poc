@@ -1,4 +1,4 @@
-import { colors } from '@fapp-ui-poc/tokens'
+import { colors } from '@poc-fapp-ui/tokens'
 import { getContrast } from 'polished'
 
 export const ColorsGrid = () =>

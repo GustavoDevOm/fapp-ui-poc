@@ -1,5 +1,5 @@
 {
-  "name": "@fapp-ui-poc/docs",
+  "name": "@poc-fapp-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -29,10 +29,10 @@
     "vite-tsconfig-paths": "^3.5.2"
   },
   "dependencies": {
-    "@fapp-ui-poc/eslint-config": "*",
-    "@fapp-ui-poc/react": "*",
-    "@fapp-ui-poc/tokens": "*",
-    "@fapp-ui-poc/ts-config": "*",
+    "@poc-fapp-ui/eslint-config": "*",
+    "@poc-fapp-ui/react": "*",
+    "@poc-fapp-ui/tokens": "*",
+    "@poc-fapp-ui/ts-config": "*",
     "iconsax-react": "^0.0.8",
     "polished": "^4.2.2",
     "react": "^18.2.0",

@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Text as TextComponent, TextProps } from '@fapp-ui-poc/react'
+import { Text as TextComponent, TextProps } from '@poc-fapp-ui/react'
 
 export default {
   title: 'Typography/Text',

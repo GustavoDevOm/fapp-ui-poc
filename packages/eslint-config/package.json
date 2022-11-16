@@ -1,5 +1,5 @@
 {
-  "name": "@fapp-ui-poc/eslint-config",
+  "name": "@poc-fapp-ui/eslint-config",
   "version": "1.0.0",
   "license": "MIT",
   "main": "index.js",

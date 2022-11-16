@@ -1,5 +1,5 @@
 {
-  "name": "@fapp-ui-poc/react",
+  "name": "@poc-fapp-ui/react",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -11,9 +11,9 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "devDependencies": {
-    "@fapp-ui-poc/eslint-config": "*",
-    "@fapp-ui-poc/tokens": "*",
-    "@fapp-ui-poc/ts-config": "*",
+    "@poc-fapp-ui/eslint-config": "*",
+    "@poc-fapp-ui/tokens": "*",
+    "@poc-fapp-ui/ts-config": "*",
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
     "react": "^18.2.0",

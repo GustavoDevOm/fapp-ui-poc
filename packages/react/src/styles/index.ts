@@ -8,7 +8,7 @@ import {
   radii,
   space,
   utils,
-} from '@fapp-ui-poc/tokens'
+} from '@poc-fapp-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

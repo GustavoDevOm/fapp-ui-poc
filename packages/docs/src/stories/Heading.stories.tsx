@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Heading as HeadingComponent, HeadingProps } from '@fapp-ui-poc/react'
+import { Heading as HeadingComponent, HeadingProps } from '@poc-fapp-ui/react'
 
 export default {
   title: 'Typography/Heading',

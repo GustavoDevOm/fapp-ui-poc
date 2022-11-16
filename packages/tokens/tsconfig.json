@@ -1,5 +1,5 @@
 {
-  "extends": "@fapp-ui-poc/ts-config/base.json",
+  "extends": "@poc-fapp-ui/ts-config/base.json",
   "include": [
     "src"
   ]

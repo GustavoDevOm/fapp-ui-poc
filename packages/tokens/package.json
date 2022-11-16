@@ -1,5 +1,5 @@
 {
-  "name": "@fapp-ui-poc/tokens",
+  "name": "@poc-fapp-ui/tokens",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -11,8 +11,8 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "devDependencies": {
-    "@fapp-ui-poc/eslint-config": "*",
-    "@fapp-ui-poc/ts-config": "*",
+    "@poc-fapp-ui/eslint-config": "*",
+    "@poc-fapp-ui/ts-config": "*",
     "tsup": "^6.4.0",
     "typescript": "^4.8.4"
   }
