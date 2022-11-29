@@ -32,4 +32,5 @@ export const colors = {
   alertBackground: '#FFEEBB',
   errorBackground: '#FFDCDE',
   location: '#F15B4A',
+  test: '#fff',
 }
