@@ -21,7 +21,7 @@ module.exports = {
   },
   viteFinal(config, { configType }) {
     if (configType === 'PRODUCTION') {
-      config.base = '/poc-fapp-ui/'
+      config.base = '/fapp-ui-poc/'
     }
 
     return mergeConfig(config, {
